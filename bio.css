@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Droid+Serif|Lora');
+
+body {
+	background-color: lightblue;
+}
+
+p {
+	text-align: left;
+	color: black;
+	font-family: "bitter", "droid serif", "lora";
+}
+
+h2 {
+	text-align: center;
+	color: black;
+	font-family: "bitter", "droid serif", "lora";
+}
+
+h1 {
+	text-align: center;
+	color: black;
+	font-family: "bitter", "droid serif", "lora";
+}
+
+img {
+	width: 25%;
+}
+.bold{
+	font-weight: bold;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.link{
+	font-size: 24px;
+	text-align: center;
+}
